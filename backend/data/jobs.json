@@ -1,0 +1,52 @@
+[
+  {
+    "id": "job-sample-01",
+    "title": "Remote Virtual Executive Assistant",
+    "organization": "EquiWorks Global (Sample Organization)",
+    "description": "Provide comprehensive administrative support to leadership, including calendar management, correspondence drafting, meeting minutes transcription, and task tracking across distributed teams.",
+    "location": "Remote (Global / Africa Flexible)",
+    "accessibilityOrAccommodation": "100% remote asynchronous-first team. Software stack tested for full screen reader compatibility (NVDA, JAWS, VoiceOver). Closed captioning provided for all team video syncs. Flexible working hours and neurodivergent-friendly written task handoffs.",
+    "isSample": true,
+    "sampleOpportunityNotice": "SIMULATED SAMPLE OPPORTUNITY — NOT AN ACTIVE EMPLOYER VACANCY"
+  },
+  {
+    "id": "job-sample-02",
+    "title": "Accessibility QA & Documentation Assistant",
+    "organization": "InclusiTech Solutions (Sample Organization)",
+    "description": "Evaluate digital learning materials, verify document accessibility (WCAG 2.2 AA, PDF/UA), format alt text for instructional images, and organize knowledge base repositories.",
+    "location": "Remote (East Africa / CET Timezone Preferred)",
+    "accessibilityOrAccommodation": "Ergonomic hardware allowance, adjustable magnification display options, assistive voice-to-text dictation tools provided, flexible break schedule, and alternative audio/written check-in formats.",
+    "isSample": true,
+    "sampleOpportunityNotice": "SIMULATED SAMPLE OPPORTUNITY — NOT AN ACTIVE EMPLOYER VACANCY"
+  },
+  {
+    "id": "job-sample-03",
+    "title": "Digital Operations & Workflow Coordinator",
+    "organization": "Apex Distributed Ventures (Sample Organization)",
+    "description": "Coordinate digital project deliverables, manage client inquiries via shared helpdesk queues, organize cloud storage drives, and assist with CRM data hygiene.",
+    "location": "Remote (Sub-Saharan Africa)",
+    "accessibilityOrAccommodation": "Structured, predictable weekly sprints. Reduced meeting culture with asynchronous Slack/Notion updates. Screen reader accessible ticketing system. Accommodations available for motor impairment and reduced keyboard strain.",
+    "isSample": true,
+    "sampleOpportunityNotice": "SIMULATED SAMPLE OPPORTUNITY — NOT AN ACTIVE EMPLOYER VACANCY"
+  },
+  {
+    "id": "job-sample-04",
+    "title": "Bilingual Customer Support Virtual Assistant",
+    "organization": "Kibo Cloud Services (Sample Organization)",
+    "description": "Deliver front-line email and chat assistance to global learners and software users, troubleshoot account access issues, and escalate technical tickets.",
+    "location": "Remote (Pan-African / Flexible Shifts)",
+    "accessibilityOrAccommodation": "Text-first customer interactions (no mandatory high-volume inbound phone calls). Dual-monitor hardware reimbursement, captioning support, speech-to-text software integration, and quiet work cadence.",
+    "isSample": true,
+    "sampleOpportunityNotice": "SIMULATED SAMPLE OPPORTUNITY — NOT AN ACTIVE EMPLOYER VACANCY"
+  },
+  {
+    "id": "job-sample-05",
+    "title": "Social Media & Content Virtual Assistant",
+    "organization": "Sahara Creative Media (Sample Organization)",
+    "description": "Schedule social media calendars, write descriptive image captions and hashtags, organize digital media libraries, and conduct market research.",
+    "location": "Remote (Flexible)",
+    "accessibilityOrAccommodation": "High-contrast visual design tools, automated audio-description generators, flexible work pacing, and dedicated accessibility mentor during onboarding.",
+    "isSample": true,
+    "sampleOpportunityNotice": "SIMULATED SAMPLE OPPORTUNITY — NOT AN ACTIVE EMPLOYER VACANCY"
+  }
+]
